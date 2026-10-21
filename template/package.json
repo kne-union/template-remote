@@ -63,7 +63,8 @@
     }
   },
   "devDependencies": {
-    "@craco/craco": "^7.1.0",
+    "@kne/craco": "^7.1.4",
+    "@kne/react-scripts": "^5.1.6",
     "@kne/react-fetch": "^1.4.3",
     "@kne/remote-loader": "^1.2.3",
     "@testing-library/jest-dom": "^6.4.2",
